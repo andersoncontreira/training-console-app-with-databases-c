@@ -1,0 +1,3 @@
+/home/andersoncontreira/Documents/Projetos/andersoncontreira/training-console-app-with-databases-c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/andersoncontreira/Documents/Projetos/andersoncontreira/training-console-app-with-databases-c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/andersoncontreira/Documents/Projetos/andersoncontreira/training-console-app-with-databases-c/cmake-build-debug/CMakeFiles/console_app.dir
